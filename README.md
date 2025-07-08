@@ -4,8 +4,6 @@ A collection of small, smart Python scripts that automate or simplify everyday c
 
 Includes things like:
 - Auto mouse movement
-- Scheduled actions
-- Clipboard utilities
 - More coming soon!
 
 ## Requirements
