@@ -1,6 +1,3 @@
-# bird.py
-# Iron Man class (player), handles movement, sprite, and hand thruster flames
-
 import pygame
 import random
 from settings import WIDTH, HEIGHT, GRAVITY, JUMP_STRENGTH
